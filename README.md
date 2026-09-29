@@ -3,6 +3,8 @@
 
 Este projeto realiza a extração, análise gráfica e simulação dinâmica de uma rede neural biológica real baseada no conectoma do cérebro da mosca-das-frutas (*Drosophila melanogaster*). Utilizando os dados públicos fornecidos pelo consórcio **Janelia FlyEM (NeuPrint)**, mapeamos a rede de conexões sinápticas e implementamos uma dinâmica básica inspirada no conceito de **Reservoir Computing** (Computação por Reservatório).
 
+![Rede Neural da Drosophila](baixados%202.png)
+
 ## 🛠️ Tecnologias Utilizadas
 
 * **Python 3**
