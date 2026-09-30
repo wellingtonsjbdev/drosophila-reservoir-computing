@@ -1,5 +1,6 @@
-# projeto-drosophila
-# 🧠 Conectômica e Simulação Neural com NeuPrint
+# Conectoma da Drosophila: Simulação com Reservoir Computing
+
+## 🧠 Conectômica e Simulação Neural com NeuPrint
 
 Este projeto realiza a extração, análise gráfica e simulação dinâmica de uma rede neural biológica real baseada no conectoma do cérebro da mosca-das-frutas (*Drosophila melanogaster*). Utilizando os dados públicos fornecidos pelo consórcio **Janelia FlyEM (NeuPrint)**, mapeamos a rede de conexões sinápticas e implementamos uma dinâmica básica inspirada no conceito de **Reservoir Computing** (Computação por Reservatório).
 
