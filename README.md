@@ -1,4 +1,4 @@
-# Conectoma da Drosophila: Simulação com Reservoir Computing
+# Reservoir Computing com o Conectoma da Drosophila
 
 ## 🧠 Conectômica e Simulação Neural com NeuPrint
 
